@@ -98,5 +98,5 @@ This regex expression will ultimately be part of an automated data pipeline so w
 * Each field must be separated by a tab character.
 
 ```
-PROVIDE A SOLUTION HERE
+^[0-9]{1,}[	][A-Z][A-Za-z -—]+[	][A-Z][A-Za-z -—]+[	].*(Software|Developer).*[	][A-Z][A-Za-z -—]+[	](Pennsylvania)$
 ```
